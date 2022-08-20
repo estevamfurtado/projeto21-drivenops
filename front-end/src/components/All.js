@@ -6,7 +6,7 @@ export default function All() {
 
     const [students, setStudents] = useState([]);
 
-    console.log('ALL PAGES WORKED FINE');
+    console.log('ALL PAGES WORKED FINE .. ?');
 
     useEffect(async () => {
         const API_URL = process.env.REACT_APP_BASE_URL;
