@@ -11,8 +11,8 @@ jobs:
         with:
           envkey_POSTGRES_USER: "postgres"
           envkey_POSTGRES_PASSWORD: "postgres"
-          envkey_POSTGRES_DB: "students-tests"
-          envkey_DATABASE_URL: "postgresql://postgres:postgres@postgres_db:5432/students-tests"
+          envkey_POSTGRES_DB: "sorteio_app"
+          envkey_DATABASE_URL: "postgresql://postgres:postgres@postgres_db:5432/sorteio_app"
           file_name: back-end/.env.test
       - name: Run tests
         run: docker-compose -f docker-compose-test.yml run node_app npm run test
