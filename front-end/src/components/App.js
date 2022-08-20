@@ -8,7 +8,7 @@ import Random from "./Random";
 
 export default function App() {
 
-    console.log('APP!');
+    console.log('test!');
 
     return <BrowserRouter>
         <Routes>
