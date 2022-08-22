@@ -23,4 +23,4 @@
   - CD: Deploy automático a cada commit na main
 - [x] Domínio customizado
   - Registro e configuração de domínio
-  - [Acesse aqui](qualquerdominiodeteste.cf)
+  - [Acesse aqui](http://qualquerdominiodeteste.cf/)
