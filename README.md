@@ -2,7 +2,7 @@
 
 ### Descrição
 - Nesse projeto, recebi o back-end e o front-end prontos de um simples sorteador.
-- A missão era cuidar da infraestrutura de *deploy* da aplicação - desde o momento do *commit* até o seu deploy
+- A missão era cuidar da infraestrutura de *deploy* da aplicação.
 - Conceitos e Tecnologias:
   - Docker + Docker Compose
   - NGINX + proxy reverso
